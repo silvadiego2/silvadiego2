@@ -1,6 +1,5 @@
 ### Olá, eu sou Diego Silva 👋
 
-<!--
 **silvadiego2/silvadiego2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 LinkedIn:(https://www.linkedin.com/in/diego-da-silva/)
 
@@ -15,4 +14,3 @@ Olá, sou Diego Silva, um entusiasta de tecnologia apaixonado por transformar id
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
