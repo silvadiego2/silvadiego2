@@ -1,7 +1,8 @@
 ### Olá, eu sou Diego Silva 👋
 
 **silvadiego2/silvadiego2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-LinkedIn:(https://www.linkedin.com/in/diego-da-silva/)
+
+Meu LinkedIn:(https://www.linkedin.com/in/diego-da-silva/)
 
 Olá, sou Diego Silva, um entusiasta de tecnologia apaixonado por transformar ideias criativas em soluções práticas. Estou atualmente desenvolvendo e aprimorando minhas habilidades como desenvolvedor back-end na Cubos Academy, onde estou explorando o desenvolvimento web com um foco especial nas tecnologias back-end, como JavaScript e Node.js.
 
