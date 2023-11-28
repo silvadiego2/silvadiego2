@@ -1,4 +1,5 @@
 ### Olá, eu sou Diego Silva 👋
+Bacharel em Direito | Contencioso Civil | Direitos Humanos | Desenvolvedor Back-End | Javascript | Node.Js
 
 Meu LinkedIn: (https://www.linkedin.com/in/diego-da-silva/)
 
