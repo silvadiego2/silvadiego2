@@ -1,11 +1,21 @@
-### Olá, eu sou Diego Silva 👋
-Bacharel em Direito | Contencioso Civil | Direitos Humanos | Desenvolvedor Back-End | Javascript | Node.Js
+### Diego Silva aqui 👋
+Um entusiasta de tecnologia e atualmente desenvolvendo e aprimorando minhas habilidades como desenvolvedor back-end, com um foco especial em JavaScript e Node.js.
 
-Meu LinkedIn: (https://www.linkedin.com/in/diego-da-silva/)
+- **Bacharel em Direito** - *UNEB* | Contencioso Civil, Direitos Humanos
+- Especialização em Educação em Direitos Humanos e Sociologia e Educação em Direitos Humanos - UNEB
+- **Desenvolvedor Back-End** - *Cubos Academy* | Javascript, Node.Js, Segurança da API e Otimização de Consultas de Banco de Dados
 
-Olá, sou Diego Silva, um entusiasta de tecnologia e atualmente desenvolvendo e aprimorando minhas habilidades como desenvolvedor back-end na Cubos Academy, com um foco especial em JavaScript e Node.js.
+Atualmente mais focado em:
 
-- 🔭 Estou atualmente focado no desenvolvimento back-end em JavaScript e Node.JS, além de aprofundar meu conhecimento em segurança da API e otimização de consultas de banco de dados. Estou sempre aprendendo e acompanhando as últimas tendências tecnológicas para melhorar minhas habilidades.
+<div style="display: inline">
+<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+</div>
+
+### você também me encontra em: 
+
+<a href="https://www.linkedin.com/in/diego-da-silva/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+<a href="https://github.com/silvadiego2"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
 
 <!--
 **silvadiego2/silvadiego2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
