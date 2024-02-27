@@ -1,4 +1,6 @@
-### Diego Silva aqui 👋
+### Hello, Devs!!
+
+<h1 align="left">Diego Silva aqui 👋</h1>
 Um entusiasta de tecnologia e atualmente desenvolvendo e aprimorando minhas habilidades como desenvolvedor back-end, com um foco especial em JavaScript e Node.js.
 
 ### Formação 🎓
@@ -7,7 +9,7 @@ Um entusiasta de tecnologia e atualmente desenvolvendo e aprimorando minhas habi
 - Especialização em Educação em Direitos Humanos e Sociologia e Educação em Direitos Humanos - UNEB
 - **Desenvolvedor de Software com foco em Back-End** - *[Cubos Academy](https://cubos.academy/cursos/desenvolvimento-de-software-v2)* | Javascript, Node.Js, Segurança da API e Otimização de Consultas de Banco de Dados
 
-### Atualmente mais focado em:
+### Tecnologias e Ferramentas:
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
