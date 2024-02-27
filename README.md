@@ -5,12 +5,20 @@ Um entusiasta de tecnologia e atualmente desenvolvendo e aprimorando minhas habi
 - Especialização em Educação em Direitos Humanos e Sociologia e Educação em Direitos Humanos - UNEB
 - **Desenvolvedor Back-End** - *Cubos Academy* | Javascript, Node.Js, Segurança da API e Otimização de Consultas de Banco de Dados
 
-Atualmente mais focado em:
+### Atualmente mais focado em:
 
 <div style="display: inline">
 <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" />
 </div>
+
+### Eu estou estudando... 🧩
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
 
 ### você também me encontra em: 
 
